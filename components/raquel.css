@@ -1,0 +1,30 @@
+.raquel-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.raquel-stand-alone {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.raquel-image {
+  width: 200px;
+  object-fit: cover;
+}
+.raquel-fragment1 {
+  display: contents;
+}
+.raquel-text3 {
+  display: inline-block;
+}
+.raquel-fragment2 {
+  display: contents;
+}
+.raquel-text4 {
+  display: inline-block;
+}
